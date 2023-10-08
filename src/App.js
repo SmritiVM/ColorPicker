@@ -4,7 +4,7 @@ import ColorPicker from './components/ColorPicker';
 function App() {
   return (
     <div>
-      <ColorPicker colorArray = {["green", "yellow"]}/>
+      <ColorPicker colorArray = {["red", "chartreuse", "blue", "yellow", "fuchsia", "cyan", "orange", "purple", "pink", "green", "coral", "lightskyblue", "brown", "orangered", "teal", "gold"]}/>
     </div>
   );
 }
