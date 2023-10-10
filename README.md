@@ -1,3 +1,7 @@
+# Deployment Link
+
+Click here to view a demo of the project: https://color-picker-smritis-projects.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
